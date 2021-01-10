@@ -14,14 +14,6 @@ class App extends Component {
     });
   }
 
-  //   this.setState({
-  //     values: [
-  //       { id: 1, name: "Value 101" },
-  //       { id: 2, name: "Value 102" },
-  //     ],
-  //   });
-  // }
-
   render() {
     return (
       <div>
